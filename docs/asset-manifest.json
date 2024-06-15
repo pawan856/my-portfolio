@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Portfilio/static/css/main.bf538fe7.css",
+    "main.js": "/Portfilio/static/js/main.f1ddfe88.js",
+    "static/media/HeroImage.jpg": "/Portfilio/static/media/HeroImage.534aa96748dcb586c532.jpg",
+    "index.html": "/Portfilio/index.html",
+    "main.bf538fe7.css.map": "/Portfilio/static/css/main.bf538fe7.css.map",
+    "main.f1ddfe88.js.map": "/Portfilio/static/js/main.f1ddfe88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.f1ddfe88.js"
+  ]
+}
